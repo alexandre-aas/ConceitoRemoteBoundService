@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConceitoRemoteBoundService</string>
+    <string name="enviar_mensagem">Enviar Mensagem</string>
+</resources>
